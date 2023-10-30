@@ -1,0 +1,104 @@
+#ul1{
+ border: solid 1px;
+ list-style: none;
+ height: 40px;
+ margin: 0%;
+ padding: 0%;
+}
+#ul1li1{
+border: solid 1px;
+height: 40px;
+width: 1000px;
+background-color: aliceblue;
+font-size: 30px;
+}
+#ul1li2{
+    border: solid 1px;
+height: 40px;
+width: 209px;
+line-height: 0px;
+text-align: left;
+font-size: 20px;
+background-color:aliceblue
+}
+#ul2{
+    border: solid 1px;
+    list-style: none;
+    height: 150px;
+    margin: 0%;
+    padding: 0%;
+   }
+ul li{
+    
+    float: left;
+    
+}
+#ul2li1{
+    list-style: none;
+    border: solid 1px;
+    height: 150px;
+    width: 850px;
+    padding-left: 20px;
+    background-color: #876f76;
+    color: #fcf7f9;
+    margin-top: 10px;
+}
+#ul2li2{
+    list-style: none;
+    border: solid 1px;
+    height: 150px;
+    width: 150px;
+    padding-left: 20px;
+    background-color: #876f76;
+    color: #fcf7f9;
+    margin-top: 10px;
+    /* margin-left: 520px; */
+}
+#ul2li3{
+    list-style: none;
+    border: solid 1px;
+    height: 150px;
+    width: 148px;
+    margin-top: 10px;
+    /* padding-left: 20px; */
+    /* background-color: #876f76; */
+    color: #fcf7f9;
+}
+#loginbox{
+    border: solid 1px #dededc;
+    height: 100%;
+    width: 30%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #dededc;
+
+}
+#loginbox h3{
+    margin-top: 0%;
+    border: solid 1px #c1b6ba;
+    height: 25px;
+    background-color: #c1b6ba;
+    text-align: center; 
+}
+#input{
+ height: 25px;
+ width: 200px;
+}
+#photo{
+    margin-top: 4px;
+    margin-left: 5px;
+    margin-bottom: 3px;
+    height: 20px;
+    width: 20px;
+}
+#loginboxul{
+    border: solid 1px ;
+    height: 30px;
+    width: 280px;
+    list-style: none;
+    float: left;
+    padding-left: 0%;
+    margin-left: 40px;
+    background-color: #dededc;
+}
